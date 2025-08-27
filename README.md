@@ -1,18 +1,15 @@
-# BiteDash - A Modern Canteen Ordering App 🍔
+<img width="373" height="791" alt="cart_ss" src="https://github.com/user-attachments/assets/470e4aaa-aa1b-4fb2-b2a4-44d713a332a2" /># BiteDash - A Modern Canteen Ordering App 🍔
 
 *A feature-rich Flutter MVP designed to streamline canteen ordering, featuring categorized menus, real-time search, and a complete shopping cart system.*
 
 ---
 
-### 🎬 App Screenshots
-
+### 🎬 App Screenshots & Demo
 
 | Menu & Search | Item Detail Page | Cart Page |
 | :---: | :---: | :---: |
-| [DRAG & DROP MENU SCREENSHO<img width="368" height="806" alt="menu_ss" src="https://github.com/user-attachments/assets/fc9bff29-878a-4171-a01a-3f63a1454ac1" />
-T HERE] | [DRAG & DROP ITEM DETAIL SC<img width="366" height="785" alt="itemdetail_ss" src="https://github.com/user-attachments/assets/5807574e-9fd2-4309-8ed2-198e89b3f32d" />
-REENSHOT HERE] | [DRAG & DROP CART SCREE![Uploading cart_ss.png…]()
-NSHOT HERE] |
+| <img src="https://github.com/user-attachments/assets/fc9bff29-878a-4171-a01a-3f63a1454ac1" width="250" /> | <img src="https://github.com/user-attachments/assets/5807574e-9fd2-4309-8ed2-198e89b3f32d" width="250" /> | <img width="373" height="791" alt="cart_ss" src="https://github.com/user-attachments/assets/2364863e-2843-4aea-8a9a-c4ccecfa9159" />
+ |
 
 ---
 
@@ -56,5 +53,3 @@ This project is a solid foundation, and the next steps are planned to make it a 
 * **Firebase Backend Integration:** Replace the mock API with a live Firebase backend using Cloud Firestore for the database and Firebase Authentication for secure user login.
 * **Admin Panel:** A separate web or mobile interface for canteen staff to manage menu items, prices, and availability in real-time.
 * **Payment Gateway Integration:** Integrate a secure payment provider like Stripe or Razorpay to handle online transactions.
-
----
