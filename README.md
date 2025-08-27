@@ -1,4 +1,4 @@
-<img width="373" height="791" alt="cart_ss" src="https://github.com/user-attachments/assets/470e4aaa-aa1b-4fb2-b2a4-44d713a332a2" /># BiteDash - A Modern Canteen Ordering App 🍔
+# BiteDash - A Modern Canteen Ordering App 🍔
 
 *A feature-rich Flutter MVP designed to streamline canteen ordering, featuring categorized menus, real-time search, and a complete shopping cart system.*
 
@@ -8,8 +8,7 @@
 
 | Menu & Search | Item Detail Page | Cart Page |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/fc9bff29-878a-4171-a01a-3f63a1454ac1" width="250" /> | <img src="https://github.com/user-attachments/assets/5807574e-9fd2-4309-8ed2-198e89b3f32d" width="250" /> | <img width="373" height="791" alt="cart_ss" src="https://github.com/user-attachments/assets/2364863e-2843-4aea-8a9a-c4ccecfa9159" />
- |
+| <img src="https://github.com/user-attachments/assets/fc9bff29-878a-4171-a01a-3f63a1454ac1" width="250" /> | <img src="https://github.com/user-attachments/assets/5807574e-9fd2-4309-8ed2-198e89b3f32d" width="250" /> | <img src="https://github.com/user-attachments/assets/2364863e-2843-4aea-8a9a-c4ccecfa9159" width="250" /> |
 
 ---
 
